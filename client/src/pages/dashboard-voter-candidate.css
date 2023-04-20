@@ -1,0 +1,503 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.candidates-child9,
+.dashboard-voter-candidate-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 381px;
+  height: 1487px;
+}
+.candidates-child9 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 315.01px;
+  height: 62px;
+}
+.candidates16 {
+  position: absolute;
+  top: 14px;
+  left: 104.01px;
+  display: inline-block;
+  width: 155px;
+}
+.vector-icon71 {
+  position: absolute;
+  height: 56.45%;
+  width: 11.04%;
+  top: 20.97%;
+  right: 84.76%;
+  bottom: 22.58%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.candidates15,
+.info-child7 {
+  position: absolute;
+  top: 200px;
+  left: 2px;
+  width: 315.01px;
+  height: 62px;
+}
+.info-child7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 317px;
+}
+.information6 {
+  position: absolute;
+  top: 13px;
+  left: 98px;
+  display: inline-block;
+  width: 167.29px;
+}
+.vector-icon72,
+.vector-icon73 {
+  position: absolute;
+  height: 60.48%;
+  width: 10.31%;
+  top: 21.77%;
+  right: 85.11%;
+  bottom: 17.74%;
+  left: 4.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon73 {
+  height: 16.13%;
+  width: 5.95%;
+  top: 17.74%;
+  right: 87.27%;
+  bottom: 66.13%;
+  left: 6.78%;
+}
+.info9 {
+  text-decoration: none;
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 317px;
+  height: 62px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  color: inherit;
+}
+.dashboard-voter-candidate.animate,
+.info9.animate,
+.logout12.animate,
+.rectangle-parent13.animate,
+.voting8.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}
+.frame-item,
+.logout-child3 {
+  position: absolute;
+  top: 0;
+  left: 300px;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 106px;
+}
+.logout-child3 {
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 317px;
+  height: 62px;
+}
+.logout13 {
+  position: absolute;
+  top: 15px;
+  left: 134px;
+  display: inline-block;
+}
+.vector-icon74 {
+  position: absolute;
+  height: 54.84%;
+  width: 12.93%;
+  top: 26.61%;
+  right: 84.38%;
+  bottom: 18.55%;
+  left: 2.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logout12,
+.voting-child9 {
+  position: absolute;
+  height: 62px;
+}
+.logout12 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 384px;
+  left: 14px;
+  width: 317px;
+  opacity: 0;
+  color: inherit;
+}
+.voting-child9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 315.01px;
+}
+.voting-child10 {
+  position: absolute;
+  height: 64.52%;
+  width: 12.23%;
+  top: 17.74%;
+  right: 83.32%;
+  bottom: 17.74%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.voting-area4 {
+  position: absolute;
+  top: 14px;
+  left: 104px;
+  display: inline-block;
+  width: 159.05px;
+}
+.voting8 {
+  text-decoration: none;
+  position: absolute;
+  top: 294px;
+  left: 0;
+  width: 315.01px;
+  height: 62px;
+  opacity: 0;
+  cursor: pointer;
+  color: inherit;
+}
+.candidates-group {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 1888px;
+  height: 446px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.dashboard-voter-candidate-item {
+  position: absolute;
+  top: 136px;
+  left: 570px;
+  height: 1312px;
+  overflow-y: auto;
+}
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 109px;
+  height: 70px;
+}
+.group-child31 {
+  position: absolute;
+  top: 5px;
+  left: 27px;
+  width: 59px;
+  height: 59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent13 {
+  text-decoration: none;
+  position: absolute;
+  top: 18px;
+  left: 1787px;
+  width: 109px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+}
+.vector-icon75 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.p1-inner {
+  position: absolute;
+  top: 115.12px;
+  left: 20px;
+  width: 308px;
+  height: 1.98px;
+}
+.lorem-ipsum-dolor6 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.eu-fugiat-nulla6 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-sit-amet-co6 {
+  position: absolute;
+  top: 135.63px;
+  left: 22px;
+  display: inline-block;
+  width: 312px;
+  height: 257.6px;
+}
+.vector-icon76 {
+  position: absolute;
+  height: 19.14%;
+  width: 23.26%;
+  top: 4.78%;
+  right: 70.93%;
+  bottom: 76.08%;
+  left: 5.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.karachi-pakistan6,
+.name43 {
+  position: absolute;
+  top: 29.27px;
+  left: 0;
+  display: inline-block;
+  width: 122px;
+  height: 17.56px;
+}
+.name43 {
+  height: 39.58%;
+  width: 71.31%;
+  top: 0;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.karachi-pakistan-parent4 {
+  position: absolute;
+  top: 35.13px;
+  left: 113px;
+  width: 122px;
+  height: 46.84px;
+  font-size: var(--font-size-3xs);
+}
+.name44,
+.p12 {
+  position: absolute;
+  left: 0;
+}
+.p12 {
+  height: 79.62%;
+  width: 30.94%;
+  top: 20.38%;
+  right: 69.06%;
+  bottom: 0;
+}
+.name44 {
+  height: 39.58%;
+  width: 100%;
+  top: 0;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.karachi-pakistan-parent5 {
+  position: absolute;
+  top: 35.13px;
+  left: 113px;
+  width: 146px;
+  height: 46.84px;
+  font-size: var(--font-size-3xs);
+}
+.p22 {
+  position: absolute;
+  height: 79.62%;
+  width: 30.94%;
+  top: 20.38%;
+  right: 34.53%;
+  bottom: 0;
+  left: 34.53%;
+}
+.karachi-pakistan-parent6 {
+  position: absolute;
+  top: 35.13px;
+  left: 115px;
+  width: 142px;
+  height: 46.84px;
+  font-size: var(--font-size-3xs);
+}
+.p32 {
+  position: absolute;
+  height: 79.62%;
+  width: 30.94%;
+  top: 20.38%;
+  right: 0;
+  bottom: 0;
+  left: 69.06%;
+}
+.president24 {
+  position: absolute;
+  top: 0;
+  left: 477px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 186px;
+  height: 46.84px;
+}
+.vice-president23 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.line-icon,
+.vice-president-wrapper {
+  position: absolute;
+  top: 124px;
+  left: 560px;
+  width: 1112px;
+  height: 512.28px;
+}
+.line-icon {
+  top: 117.83px;
+  left: 20px;
+  width: 308px;
+  height: 2px;
+}
+.karachi-pakistan9,
+.lorem-ipsum-dolor-sit-amet-co9,
+.name46 {
+  position: absolute;
+  top: 138.81px;
+  left: 22px;
+  display: inline-block;
+  width: 312px;
+  height: 263.63px;
+}
+.karachi-pakistan9,
+.name46 {
+  top: 29.96px;
+  left: 0;
+  width: 122px;
+  height: 17.97px;
+}
+.name46 {
+  height: 39.58%;
+  width: 82.79%;
+  top: 0;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.karachi-pakistan-parent7 {
+  position: absolute;
+  top: 35.95px;
+  left: 113px;
+  width: 122px;
+  height: 47.93px;
+  font-size: var(--font-size-3xs);
+}
+.p13 {
+  position: absolute;
+  height: 79.47%;
+  width: 30.94%;
+  top: 20.53%;
+  right: 69.06%;
+  bottom: 0;
+  left: 0;
+}
+.karachi-pakistan-parent8 {
+  position: absolute;
+  top: 35.95px;
+  left: 113px;
+  width: 146px;
+  height: 47.93px;
+  font-size: var(--font-size-3xs);
+}
+.p23 {
+  position: absolute;
+  height: 79.47%;
+  width: 30.94%;
+  top: 20.53%;
+  right: 34.53%;
+  bottom: 0;
+  left: 34.53%;
+}
+.karachi-pakistan-parent9 {
+  position: absolute;
+  top: 35.95px;
+  left: 115px;
+  width: 142px;
+  height: 47.93px;
+  font-size: var(--font-size-3xs);
+}
+.p33 {
+  position: absolute;
+  height: 79.47%;
+  width: 30.94%;
+  top: 20.53%;
+  right: 0;
+  bottom: 0;
+  left: 69.06%;
+}
+.vice-president24 {
+  position: absolute;
+  top: 0;
+  left: 429px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 282px;
+  height: 47.93px;
+}
+.president-container {
+  position: absolute;
+  top: 668px;
+  left: 560px;
+  width: 1112px;
+  height: 525.27px;
+}
+.dashboard-voter-candidate {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1263px;
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}

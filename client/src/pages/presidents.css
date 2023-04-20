@@ -1,0 +1,93 @@
+.president1 {
+    align-items: center;
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    color: white;
+}
+.president h1 {
+    color: "black";
+    font-family: "Inter";
+    font-weight: 500;
+
+
+}
+
+.president {
+    margin-left: "200px";
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.president-main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.president-main .president-box{
+    width: 33.33%;
+    padding: 1rem 1rem;
+    box-sizing: border-box;
+}
+.president-main .president-box .box{
+    background-color: white;
+    border-radius: 15px;
+    padding: 1rem 1rem;
+}
+.president-box .box .user-profile{
+    display: flex;
+    align-items: center;
+}
+.president-box .box .user-profile .img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.president-box .box .user-profile .detail{
+    margin-left: 1rem;
+    text-align: left;
+}
+.president-box .box .user-profile .detail .user-name{
+    margin: 0;
+}
+.president-box .box .user-profile .detail .address{
+    margin-top: 4px;
+    display: inline-block;
+}
+.president-box .box .user-detail{
+    list-style: none;
+    text-align: start;
+    padding-left: 0;
+}
+.president-box .box .user-detail span{
+    font-weight: 600;
+}
+.president-box .box .user-detail p{
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left:4px;
+}
+.president-box .box .user-detail li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.president-box .box .user-detail li span:first-child{
+    width: 45%;
+}
+.president-box .box .user-detail li span:nth-child(2){
+width: 10%;
+text-align: center;
+}
+.president-box .box .user-detail li p{
+    width: 45%;
+    text-align: center;
+}
+.detail2 {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: start !important;
+}

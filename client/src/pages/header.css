@@ -1,0 +1,17 @@
+.frame-child {
+    position: absolute;
+    top: 0;
+    left: 300px;
+    background-color: var(--color-white);
+    width: 1588px;
+    height: 106px;
+  }
+
+  
+.btn {
+  position: absolute;
+  top: 996px;
+  left: 932px;
+  display: inline-block;
+  opacity: 0.3;
+}

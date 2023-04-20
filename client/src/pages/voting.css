@@ -1,0 +1,84 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  
+  .flex-item {
+    flex-basis: 33%;
+    padding: 1rem;
+   margin-bottom: 40px;
+    
+  }
+  
+  .flex-item h2 {
+    margin-top: 0;
+    font-size: 2rem;
+  }
+  
+  .flex-item p {
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: #888;
+  }
+ 
+  
+  label {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #0077cc;
+    border-radius: 3rem;
+    cursor: pointer;
+  }
+  
+  
+
+  .voting-area-wrapper{
+    width: 95%;
+    height: 100%;
+    position: relative;
+    margin: 0 auto;
+    overflow: auto;
+  }
+
+  .voting-area-wrapper .flex-container{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 150px;
+
+  }
+
+.radiobtn{
+  width: 5rem;
+  height: 5rem;
+  margin-bottom: 40px;
+}
+.imgSize{
+border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 40px;
+
+ 
+}
+
+.text-end{
+  text-align: end;
+}
+
+.abstainbtn {
+  text-decoration: none;
+  width: 210px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: inherit;
+  margin-bottom: 40px;
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}

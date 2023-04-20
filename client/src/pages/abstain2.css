@@ -1,0 +1,364 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.abstain-2-child,
+.candidates-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.abstain-2-child {
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 350px;
+  height: 1080px;
+  opacity: 0.3;
+}
+.candidates-child {
+  border-radius: var(--br-xs);
+  width: 278px;
+  height: 62px;
+}
+.vice-president {
+  position: absolute;
+  top: 14px;
+  left: 43px;
+  display: inline-block;
+}
+.candidates,
+.info-child {
+  position: absolute;
+  width: 278px;
+  height: 62px;
+}
+.candidates {
+  top: 198px;
+  left: 36px;
+  opacity: 0.3;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.info-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.president {
+  top: 14px;
+  left: 76px;
+  display: inline-block;
+}
+.chairman,
+.info,
+.president {
+  position: absolute;
+}
+.info {
+  top: 106px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+  opacity: 0.3;
+  font-size: var(--font-size-xs);
+}
+.chairman {
+  top: 14px;
+  left: 75px;
+  display: inline-block;
+}
+.voting {
+  position: absolute;
+  top: 290px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+  opacity: 0.3;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.abstain-2-item {
+  position: absolute;
+  top: 0;
+  left: 486px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px 14px rgba(221, 221, 221, 0.73);
+  width: 1228px;
+  height: 1080px;
+  opacity: 0.5;
+}
+.abstain-2-child1,
+.abstain-2-inner,
+.austin-distel-7uommzpd2ja-unsp-icon,
+.rectangle-icon {
+  position: absolute;
+  height: 23.24%;
+  width: 14.11%;
+  top: 61.57%;
+  right: 54.69%;
+  bottom: 15.19%;
+  left: 31.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.abstain-2-child1,
+.austin-distel-7uommzpd2ja-unsp-icon,
+.rectangle-icon {
+  height: 14.72%;
+  width: 8.28%;
+  top: 65.83%;
+  right: 57.6%;
+  bottom: 19.44%;
+  left: 34.11%;
+}
+.abstain-2-child1,
+.rectangle-icon {
+  height: 23.24%;
+  width: 14.11%;
+  top: 5.83%;
+  right: 54.74%;
+  bottom: 70.93%;
+  left: 31.15%;
+}
+.abstain-2-child1 {
+  top: 33.98%;
+  bottom: 42.78%;
+}
+.austin-distel-7uommzpd2ja-unsp-icon1,
+.austin-distel-7uommzpd2ja-unsp-icon2 {
+  position: absolute;
+  height: 14.72%;
+  width: 8.28%;
+  top: 10.09%;
+  right: 57.66%;
+  bottom: 75.19%;
+  left: 34.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.austin-distel-7uommzpd2ja-unsp-icon2 {
+  top: 38.24%;
+  bottom: 47.04%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 950px;
+  left: 59px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-violet);
+  width: 210px;
+  height: 70px;
+  opacity: 0.5;
+}
+.designation,
+.go-back,
+.name {
+  position: absolute;
+  display: inline-block;
+}
+.go-back {
+  top: 965px;
+  left: 92px;
+  width: 144px;
+  height: 35px;
+  opacity: 0.5;
+}
+.designation,
+.name {
+  top: 0;
+  left: 1.18%;
+}
+.designation {
+  top: 66.36%;
+  left: 0;
+}
+.name-container,
+.name-group,
+.name-parent {
+  position: absolute;
+  height: 9.91%;
+  width: 8.8%;
+  top: 12.5%;
+  right: 42.66%;
+  bottom: 77.59%;
+  left: 48.54%;
+  opacity: 0.3;
+  font-size: var(--font-size-sm);
+}
+.name-container,
+.name-group {
+  top: 68.24%;
+  right: 41.72%;
+  bottom: 21.85%;
+  left: 49.48%;
+}
+.name-container {
+  top: 40.65%;
+  right: 42.66%;
+  bottom: 49.44%;
+  left: 48.54%;
+}
+.abstain-2-child2,
+.abstain-2-child3,
+.ellipse-icon {
+  position: absolute;
+  top: 142px;
+  left: 1470px;
+  width: 96px;
+  height: 96px;
+  opacity: 0.3;
+}
+.abstain-2-child2,
+.abstain-2-child3 {
+  top: 445px;
+}
+.abstain-2-child3 {
+  top: 743px;
+}
+.abstain-2-child4,
+.abstain-2-child5 {
+  position: absolute;
+  top: 983px;
+  left: 891px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-violet);
+  width: 210px;
+  height: 70px;
+  opacity: 0.3;
+}
+.abstain-2-child5 {
+  left: 1260px;
+}
+.abstain,
+.submit {
+  position: absolute;
+  top: 996px;
+  left: 932px;
+  display: inline-block;
+  opacity: 0.3;
+}
+.submit {
+  left: 1305px;
+}
+.vector-icon {
+  position: absolute;
+  height: 51.2%;
+  width: 37.4%;
+  top: 21.76%;
+  right: 27.34%;
+  bottom: 27.04%;
+  left: 35.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.your-vote-is-successfully-cast {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.confirm {
+  position: absolute;
+  top: 378px;
+  left: 723px;
+  width: 616px;
+  height: 48px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.back-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 210px;
+  height: 70px;
+}
+.logout {
+  position: absolute;
+  top: 13px;
+  left: 45px;
+  display: inline-block;
+  width: 144px;
+  height: 35px;
+}
+.back,
+.recipt {
+  position: absolute;
+  top: 528px;
+  left: 805px;
+  width: 210px;
+  height: 70px;
+}
+.recipt {
+  top: 12px;
+  left: 52px;
+  display: inline-block;
+  width: 144px;
+  height: 35px;
+}
+.back1,
+.group-child {
+  position: absolute;
+  top: 528px;
+  left: 1101px;
+  width: 210px;
+  height: 70px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 109px;
+}
+.group-item,
+.rectangle-parent {
+  position: absolute;
+  cursor: pointer;
+}
+.group-item {
+  top: 5px;
+  left: 27px;
+  width: 59px;
+  height: 59px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  text-decoration: none;
+  top: 36px;
+  left: 1783px;
+  width: 109px;
+  height: 70px;
+  opacity: 0;
+}
+.rectangle-parent.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}
+.abstain-2 {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

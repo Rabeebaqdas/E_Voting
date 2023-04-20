@@ -1,0 +1,364 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.registration-button {
+  background-color: var(--color-violet);
+  color: black;
+  border: none;
+  padding: 20px 30px;
+  border-radius: 4px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.voting-button {
+  background-color: var(--color-violet);
+  color: black;
+  border: none;
+  padding: 20px 60px;
+  border-radius: 4px;
+  font-size: 24px;
+  margin-top: 80px;
+  cursor: pointer;
+}
+.result-button {
+  background-color: var(--color-violet);
+  color: black;
+  border: none;
+  padding: 20px 60px;
+  border-radius: 4px;
+  font-size: 24px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.card1 {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  width: 1250px;
+  height: 460px;
+  margin: -420px auto 0;
+  margin-right: 220px;
+}
+
+
+.card-header1 {
+  background-color: var(--color-violet);;
+  border-bottom: 1px solid #ccc;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.card-body1 {
+  padding: 10px;
+}
+
+.center1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.dashboard-admin-info-child,
+.logout-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.dashboard-admin-info-child {
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 381px;
+  height: 1080px;
+}
+.logout-child1 {
+  border-radius: var(--br-xs);
+  width: 317px;
+  height: 62px;
+}
+.logout9 {
+  position: absolute;
+  top: 15px;
+  left: 134px;
+  display: inline-block;
+}
+.vector-icon33 {
+  position: absolute;
+  height: 54.84%;
+  width: 12.93%;
+  top: 26.61%;
+  right: 84.38%;
+  bottom: 18.55%;
+  left: 2.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.candidates-child6,
+.logout8 {
+  position: absolute;
+  height: 62px;
+}
+.logout8 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 474px;
+  left: 34px;
+  width: 317px;
+  color: inherit;
+}
+.candidates-child6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 315.01px;
+}
+.candidates11 {
+  position: absolute;
+  top: 19px;
+  left: 104.01px;
+  display: inline-block;
+  width: 155px;
+}
+.vector-icon34 {
+  position: absolute;
+  height: 56.45%;
+  width: 11.04%;
+  top: 30.65%;
+  right: 84.76%;
+  bottom: 12.9%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.candidates10,
+.info-child5 {
+  position: absolute;
+  height: 62px;
+}
+.candidates10 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 290px;
+  left: 32.99px;
+  width: 315.01px;
+  opacity: 0;
+  color: inherit;
+}
+.candidates10.animate,
+.dashboard-admin-info.animate,
+.rectangle-parent4.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}
+.info-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 317px;
+}
+.information4 {
+  position: absolute;
+  top: 13px;
+  left: 98px;
+  display: inline-block;
+  width: 167.29px;
+}
+.vector-icon35,
+.vector-icon36 {
+  position: absolute;
+  height: 60.48%;
+  width: 10.31%;
+  top: 21.77%;
+  right: 85.11%;
+  bottom: 17.74%;
+  left: 4.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon36 {
+  height: 16.13%;
+  width: 5.95%;
+  top: 17.74%;
+  right: 87.27%;
+  bottom: 66.13%;
+  left: 6.78%;
+}
+.info7 {
+  position: absolute;
+  top: 106px;
+  left: 32px;
+  width: 317px;
+  height: 62px;
+  text-align: left;
+}
+.voting-child6 {
+  position: absolute;
+  height: 64.52%;
+  width: 12.23%;
+  top: 17.74%;
+  right: 83.32%;
+  bottom: 17.74%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.voting-area2 {
+  position: absolute;
+  top: 14px;
+  left: 104px;
+  display: inline-block;
+  width: 159.05px;
+}
+.voting6 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 382px;
+  left: 30px;
+  width: 315.01px;
+  height: 62px;
+  color: inherit;
+}
+.dashboard-admin-info-inner,
+.dashboard-admin-info-item {
+  position: absolute;
+  top: 174px;
+  left: 486px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 1358px;
+  height: 867px;
+}
+.dashboard-admin-info-inner {
+  top: 136px;
+  left: 550px;
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 862px;
+  height: 83px;
+}
+.rules-for-voting-criteria1 {
+  position: absolute;
+  top: 157px;
+  left: 585px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+}
+.welcome-to-e-voting-system2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.span10 {
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-family: var(--font-inter);
+}
+.welcome-to-e-voting-system-the1 {
+  position: absolute;
+  top: 218px;
+  left: 534px;
+  text-align: left;
+  display: inline-block;
+  font-size: calc(var(--font-size-base) * 0.85);
+}
+.voter-registration5 {
+  position: absolute;
+  top: 19px;
+  left: 63px;
+  display: inline-block;
+}
+.candidates12,
+.select-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 62px;
+}
+.select-icon2 {
+  height: 59.09%;
+  width: 11.56%;
+  top: 29.33%;
+  right: 84.28%;
+  bottom: 11.58%;
+  left: 4.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.voter-registration4 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 198px;
+  left: 32px;
+  width: 317px;
+  height: 62px;
+  color: inherit;
+}
+.dashboard-admin-info-child1,
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 332px;
+  background-color: var(--color-white);
+  width: 1588px;
+  height: 106px;
+}
+.group-child12 {
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 109px;
+  height: 70px;
+}
+.group-child13 {
+  position: absolute;
+  top: 5px;
+  left: 27px;
+  width: 59px;
+  height: 59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent4 {
+  text-decoration: none;
+  position: absolute;
+  top: 11px;
+  left: 1783px;
+  width: 109px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+}
+.dashboard-admin-info {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  opacity: 0;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

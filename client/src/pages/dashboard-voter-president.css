@@ -1,0 +1,394 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.dashboard-voter-president-child,
+.tap-area,
+.tap-area1,
+.tap-area2 {
+  text-decoration: none;
+  position: absolute;
+  top: -2820px;
+  left: 11398px;
+  background-color: var(--color-gray-200);
+  width: 300px;
+  height: 315px;
+  opacity: 0;
+  cursor: pointer;
+}
+.abstain17.animate,
+.back11.animate,
+.chairman18.animate,
+.dashboard-voter-president-child.animate,
+.dashboard-voter-president-child2.animate,
+.dashboard-voter-president.animate,
+.rectangle-parent11.animate,
+.submit16.animate,
+.tap-area.animate,
+.tap-area1.animate,
+.tap-area2.animate,
+.vice-president19.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}
+.dashboard-voter-president-child,
+.tap-area1,
+.tap-area2 {
+  top: -2840px;
+  left: 10830px;
+}
+.dashboard-voter-president-child,
+.tap-area2 {
+  top: -2388px;
+}
+.dashboard-voter-president-child {
+  top: -2820px;
+}
+.dashboard-voter-president-inner,
+.vice-president-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.dashboard-voter-president-inner {
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 350px;
+  height: 1080px;
+}
+.vector-icon77 {
+  position: absolute;
+  height: 77.39%;
+  width: 74.54%;
+  top: 9.94%;
+  right: 12.55%;
+  bottom: 32.67%;
+  left: 12.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vice-president-child4 {
+  border-radius: var(--br-xs);
+  width: 278px;
+  height: 62px;
+}
+.vice-president20 {
+  position: absolute;
+  top: 14px;
+  left: 43px;
+  display: inline-block;
+}
+.president-child4,
+.vice-president19 {
+  position: absolute;
+  width: 278px;
+  height: 62px;
+}
+.vice-president19 {
+  text-decoration: none;
+  top: 198px;
+  left: 36px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.president-child4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.president21 {
+  position: absolute;
+  top: 14px;
+  left: 76px;
+  display: inline-block;
+}
+.president20 {
+  position: absolute;
+  top: 106px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+}
+.chairman19 {
+  position: absolute;
+  top: 14px;
+  left: 75px;
+  display: inline-block;
+}
+.chairman18 {
+  text-decoration: none;
+  position: absolute;
+  top: 290px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.dashboard-voter-president-child1 {
+  position: absolute;
+  top: 0;
+  left: 486px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px 14px rgba(221, 221, 221, 0.73);
+  width: 1228px;
+  height: 1080px;
+
+}
+.vector-icon55 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-parent5 {
+  position: absolute;
+  height: 23.24%;
+  width: 14.11%;
+  top: 61.57%;
+  right: 54.69%;
+  bottom: 15.19%;
+  left: 31.2%;
+}
+.austin-distel-7uommzpd2ja-unsp-icon27 {
+  position: absolute;
+  height: 14.72%;
+  width: 8.28%;
+  top: 65.83%;
+  right: 57.6%;
+  bottom: 19.44%;
+  left: 34.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-parent6,
+.vector-parent7 {
+  position: absolute;
+  height: 23.24%;
+  width: 14.11%;
+  top: 5.83%;
+  right: 54.74%;
+  bottom: 70.93%;
+  left: 31.15%;
+}
+.vector-parent7 {
+  top: 33.98%;
+  bottom: 42.78%;
+}
+.vector-msg {
+  position: absolute;
+  height: 23.24%;
+  width: 64.11%;
+  top: 50.83%;
+  right: 54.74%;
+  bottom: 70.93%;
+  left: 18.15%;
+  text-align: center;
+}
+.austin-distel-7uommzpd2ja-unsp-icon28,
+.austin-distel-7uommzpd2ja-unsp-icon29 {
+  position: absolute;
+  height: 14.72%;
+  width: 8.28%;
+  top: 10.09%;
+  right: 57.66%;
+  bottom: 75.19%;
+  left: 34.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.austin-distel-7uommzpd2ja-unsp-icon29 {
+  top: 38.24%;
+  bottom: 47.04%;
+}
+.back-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-violet);
+  width: 210px;
+  height: 70px;
+}
+.go-back11 {
+  position: absolute;
+  top: 15px;
+  left: 33px;
+  display: inline-block;
+  width: 144px;
+  height: 35px;
+}
+.back11 {
+  text-decoration: none;
+  position: absolute;
+  top: 950px;
+  left: 59px;
+  width: 210px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: inherit;
+}
+.designation30,
+.name40 {
+  position: absolute;
+  top: 0;
+  left: 1.18%;
+  display: inline-block;
+}
+.designation30 {
+  top: 66.36%;
+  left: 0;
+}
+.name-parent27 {
+  position: absolute;
+  height: 9.91%;
+  width: 8.8%;
+  top: 12.5%;
+  right: 42.66%;
+  bottom: 77.59%;
+  left: 48.54%;
+  font-size: var(--font-size-sm);
+}
+.name41 {
+  position: absolute;
+  top: 0;
+  left: 0.93%;
+  display: inline-block;
+}
+.name-parent28,
+.name-parent29 {
+  position: absolute;
+  height: 9.91%;
+  width: 11.15%;
+  top: 68.24%;
+  right: 39.38%;
+  bottom: 21.85%;
+  left: 49.48%;
+  font-size: var(--font-size-sm);
+}
+.name-parent29 {
+  top: 40.65%;
+  right: 40.31%;
+  bottom: 49.44%;
+  left: 48.54%;
+}
+.dashboard-voter-president-child2,
+.dashboard-voter-president-child3,
+.dashboard-voter-president-child4 {
+  cursor: pointer;
+  position: absolute;
+  left: 1470px;
+  background-color: var(--color-gray-400);
+  width: 96px;
+  height: 96px;
+}
+.dashboard-voter-president-child2 {
+  top: 142px;
+  opacity: 0;
+}
+.dashboard-voter-president-child3,
+.dashboard-voter-president-child4 {
+  top: 445px;
+}
+.dashboard-voter-president-child4 {
+  top: 743px;
+}
+.abstain18 {
+  position: absolute;
+  top: 13px;
+  left: 41px;
+  display: inline-block;
+}
+.abstain17 {
+  text-decoration: none;
+  position: absolute;
+  top: 983px;
+  left: 891px;
+  width: 210px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: inherit;
+}
+.submit17 {
+  position: absolute;
+  top: 13px;
+  left: 45px;
+  display: inline-block;
+}
+.group-child26,
+.submit16 {
+  position: absolute;
+  height: 70px;
+}
+.submit16 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 981px;
+  left: 1260px;
+  width: 210px;
+  opacity: 0;
+  font-size: var(--font-size-lg);
+  color: inherit;
+}
+.group-child26 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 109px;
+}
+.group-child27 {
+  position: absolute;
+  top: 5px;
+  left: 27px;
+  width: 59px;
+  height: 59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent11 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 1793px;
+  width: 109px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+}
+.dashboard-voter-president {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

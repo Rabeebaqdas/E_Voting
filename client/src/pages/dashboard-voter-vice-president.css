@@ -1,0 +1,361 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.dashboard-voter-vice-president-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 350px;
+  height: 1080px;
+  opacity: 0.3;
+}
+.vice-president-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 278px;
+  height: 62px;
+}
+.vice-president12 {
+  position: absolute;
+  top: 14px;
+  left: 43px;
+  display: inline-block;
+}
+.president-inner,
+.vice-president11 {
+  position: absolute;
+  width: 278px;
+  height: 62px;
+}
+.vice-president11 {
+  top: 198px;
+  left: 36px;
+  opacity: 0.3;
+  text-align: center;
+}
+.president-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+}
+.president13 {
+  position: absolute;
+  top: 14px;
+  left: 76px;
+  display: inline-block;
+}
+.president12 {
+  position: absolute;
+  top: 106px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+  opacity: 0.3;
+}
+.chairman11 {
+  position: absolute;
+  top: 14px;
+  left: 75px;
+  display: inline-block;
+}
+.chairman10 {
+  position: absolute;
+  top: 294px;
+  left: 36px;
+  width: 278px;
+  height: 62px;
+  opacity: 0.3;
+  text-align: center;
+}
+.dashboard-voter-vice-president-item {
+  position: absolute;
+  top: 0;
+  left: 486px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px 14px rgba(221, 221, 221, 0.73);
+  width: 1228px;
+  height: 1080px;
+  opacity: 0.3;
+}
+.austin-distel-7uommzpd2ja-unsp-icon16,
+.dashboard-voter-vice-president-inner {
+  position: absolute;
+  height: 23.24%;
+  width: 14.11%;
+  top: 61.57%;
+  right: 54.69%;
+  bottom: 15.19%;
+  left: 31.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.austin-distel-7uommzpd2ja-unsp-icon16 {
+  height: 14.72%;
+  width: 8.28%;
+  top: 65.83%;
+  right: 57.6%;
+  bottom: 19.44%;
+  left: 34.11%;
+}
+.dashboard-voter-vice-president-child1,
+.dashboard-voter-vice-president-child2 {
+  position: absolute;
+  height: 23.24%;
+  width: 14.11%;
+  top: 5.83%;
+  right: 54.74%;
+  bottom: 70.93%;
+  left: 31.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.dashboard-voter-vice-president-child2 {
+  top: 33.98%;
+  bottom: 42.78%;
+}
+.austin-distel-7uommzpd2ja-unsp-icon17,
+.austin-distel-7uommzpd2ja-unsp-icon18 {
+  position: absolute;
+  height: 14.72%;
+  width: 8.28%;
+  top: 10.09%;
+  right: 57.66%;
+  bottom: 75.19%;
+  left: 34.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.austin-distel-7uommzpd2ja-unsp-icon18 {
+  top: 38.24%;
+  bottom: 47.04%;
+}
+.go-back7 {
+  position: absolute;
+  top: 15px;
+  left: 33px;
+  display: inline-block;
+  width: 144px;
+  height: 35px;
+  opacity: 0.3;
+}
+.back7 {
+  position: absolute;
+  top: 963px;
+  left: 59px;
+  width: 210px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+}
+.designation18,
+.name26 {
+  position: absolute;
+  top: 0;
+  left: 1.18%;
+  display: inline-block;
+}
+.designation18 {
+  top: 66.36%;
+  left: 0;
+}
+.name-parent15,
+.name-parent16,
+.name-parent17 {
+  position: absolute;
+  height: 9.91%;
+  width: 8.8%;
+  top: 12.5%;
+  right: 42.66%;
+  bottom: 77.59%;
+  left: 48.54%;
+  opacity: 0.3;
+  font-size: var(--font-size-sm);
+}
+.name-parent16,
+.name-parent17 {
+  top: 68.24%;
+  right: 41.72%;
+  bottom: 21.85%;
+  left: 49.48%;
+}
+.name-parent17 {
+  top: 40.65%;
+  right: 42.66%;
+  bottom: 49.44%;
+  left: 48.54%;
+}
+.dashboard-voter-vice-president-child3 {
+  position: absolute;
+  top: 142px;
+  left: 1470px;
+  width: 96px;
+  height: 96px;
+  opacity: 0.3;
+}
+.dashboard-voter-vice-president-child4,
+.dashboard-voter-vice-president-child5 {
+  position: absolute;
+  top: 445px;
+  left: 1470px;
+  width: 96px;
+  height: 96px;
+  opacity: 0.3;
+}
+.dashboard-voter-vice-president-child5 {
+  top: 743px;
+}
+.abstain10 {
+  position: absolute;
+  top: 13px;
+  left: 41px;
+  display: inline-block;
+  opacity: 0.3;
+}
+.abstain9 {
+  position: absolute;
+  top: 983px;
+  left: 891px;
+  width: 210px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+}
+.submit-inner,
+.submit9 {
+  position: absolute;
+  opacity: 0.3;
+}
+.submit-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-violet);
+  width: 210px;
+  height: 70px;
+}
+.submit9 {
+  top: 13px;
+  left: 45px;
+  display: inline-block;
+}
+.submit8 {
+  position: absolute;
+  top: 981px;
+  left: 1260px;
+  width: 210px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+}
+.dashboard-voter-vice-president-child6,
+.vector-icon46 {
+  position: absolute;
+  height: 77.69%;
+  width: 43.7%;
+  top: 10.28%;
+  right: 27.34%;
+  bottom: 12.04%;
+  left: 28.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard-voter-vice-president-child6 {
+  height: 9.26%;
+  width: 16.98%;
+  top: 64.81%;
+  right: 40.73%;
+  bottom: 25.93%;
+  left: 42.29%;
+}
+.do-you-confirm-your-votes1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.confirm-item {
+  position: absolute;
+  top: 130px;
+  left: 197px;
+  width: 119px;
+  height: 119px;
+  object-fit: cover;
+}
+.name29 {
+  position: absolute;
+  top: 89.22%;
+  left: 24.41%;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.confirm5 {
+  position: absolute;
+  top: 262px;
+  left: 719px;
+  width: 512px;
+  height: 334px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.group-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 109px;
+  height: 70px;
+}
+.group-child19 {
+  position: absolute;
+  top: 5px;
+  left: 27px;
+  width: 59px;
+  height: 59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent7 {
+  text-decoration: none;
+  position: absolute;
+  top: 29px;
+  left: 1775px;
+  width: 109px;
+  height: 70px;
+  opacity: 0;
+  cursor: pointer;
+}
+.rectangle-parent7.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}
+.dashboard-voter-vice-president {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,118 @@
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.user-login-child,
+.voting-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1805px;
+  height: 1805px;
+}
+.voting-1-icon2 {
+  top: 208px;
+  left: 176px;
+  width: 405px;
+  height: 394px;
+  object-fit: cover;
+}
+.button-item,
+.component-1-item {
+  position: absolute;
+  height: 89.6%;
+  width: 100%;
+  top: 10.4%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.button-item {
+  height: 102.86%;
+  width: 100.95%;
+  top: -1.43%;
+  right: -0.48%;
+  bottom: -1.43%;
+  left: -0.48%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+}
+.login1 {
+  position: absolute;
+  top: 18.57%;
+  left: 28.57%;
+  display: inline-block;
+}
+.button1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  height: 9.97%;
+  width: 29.58%;
+  top: 80.48%;
+  right: 35.21%;
+  bottom: 9.54%;
+  left: 35.21%;
+  color: inherit;
+}
+.email2,
+.password1 {
+  border: 0;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  height: 12.25%;
+  width: 90.99%;
+  top: 58.55%;
+  right: 4.51%;
+  bottom: 29.2%;
+  left: 4.51%;
+}
+.email2 {
+  top: 36.61%;
+  right: 4.23%;
+  bottom: 51.14%;
+  left: 4.79%;
+}
+.voter-login1 {
+  position: absolute;
+  top: 19.23%;
+  left: 30.14%;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: center;
+}
+.component-11 {
+  position: absolute;
+  top: 181px;
+  left: 1051px;
+  width: 710px;
+  height: 702px;
+}
+.user-login1 {
+  position: relative;
+  background-color: var(--color-violet);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.user-login1.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in-bottom;
+}

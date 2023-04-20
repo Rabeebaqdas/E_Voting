@@ -1,0 +1,279 @@
+.logout-child,
+.voter-profile-information-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.voter-profile-information-child {
+  box-shadow: 50px 0 60px rgba(198, 198, 198, 0.4);
+  width: 381px;
+  height: 1080px;
+  opacity: 0.4;
+}
+.logout-child {
+  border-radius: var(--br-xs);
+  width: 317px;
+  height: 62px;
+}
+.logout3 {
+  position: absolute;
+  top: 15px;
+  left: 134px;
+  display: inline-block;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 54.84%;
+  width: 12.93%;
+  top: 26.61%;
+  right: 84.38%;
+  bottom: 18.55%;
+  left: 2.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.info-child2,
+.logout2 {
+  position: absolute;
+  width: 317px;
+  height: 62px;
+}
+.logout2 {
+  top: 196px;
+  left: 32px;
+  opacity: 0.4;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.info-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.information {
+  position: absolute;
+  top: 13px;
+  left: 98px;
+  display: inline-block;
+  width: 167.29px;
+}
+.vector-icon5,
+.vector-icon6 {
+  position: absolute;
+  height: 60.48%;
+  width: 10.31%;
+  top: 21.77%;
+  right: 85.11%;
+  bottom: 17.74%;
+  left: 4.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon6 {
+  height: 16.13%;
+  width: 5.95%;
+  top: 17.74%;
+  right: 87.27%;
+  bottom: 66.13%;
+  left: 6.78%;
+}
+.info4 {
+  position: absolute;
+  top: 106px;
+  left: 32px;
+  width: 317px;
+  height: 62px;
+  opacity: 0.4;
+  font-size: var(--font-size-xs);
+}
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 1358px;
+  height: 867px;
+  opacity: 0.4;
+}
+.group-child7 {
+  top: 0;
+  left: 64px;
+  background-color: var(--color-violet);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 862px;
+  height: 83px;
+}
+.rules-for-voting-criteria {
+  position: absolute;
+  top: 21px;
+  left: 99px;
+  font-weight: 600;
+  display: inline-block;
+  opacity: 0.4;
+}
+.these-are-the-some-rules-for-v {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.span {
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-family: var(--font-inter);
+}
+.welcome-to-e-voting-system-the {
+  position: absolute;
+  top: 122px;
+  left: 48px;
+  display: inline-block;
+  opacity: 0.4;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 136px;
+  left: 486px;
+  width: 1358px;
+  height: 905px;
+  font-size: var(--font-size-base);
+}
+.voter-profile-information-item {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 1388px;
+  border-radius: 0 0 0 var(--br-sm);
+  background-color: var(--color-white);
+  width: 532px;
+  height: 750px;
+}
+.voter-profile-information-inner {
+  position: absolute;
+  top: 312px;
+  left: 1387px;
+  background-color: #c5cef7;
+  width: 162px;
+  height: 263px;
+}
+.voter-profile-information-child1 {
+  position: absolute;
+  top: 312px;
+  left: 1549px;
+  background-color: var(--color-gray-400);
+  width: 371px;
+  height: 263px;
+}
+.information1,
+.name12 {
+  position: absolute;
+  display: inline-block;
+}
+.information1 {
+  top: 258px;
+  left: 1568px;
+  font-size: var(--font-size-base);
+}
+.name12 {
+  top: 336px;
+  left: 1409px;
+}
+.b-001-cs,
+.burhan-al-haq-siddiqui,
+.gender,
+.id,
+.male {
+  position: absolute;
+  top: 336px;
+  left: 1579px;
+  display: inline-block;
+}
+.b-001-cs,
+.gender,
+.id,
+.male {
+  top: 382px;
+  left: 1409px;
+}
+.b-001-cs,
+.gender,
+.male {
+  left: 1579px;
+}
+.gender,
+.male {
+  top: 428px;
+  left: 1409px;
+}
+.male {
+  left: 1579px;
+}
+.basiddiquistudentsuitedu,
+.city,
+.email,
+.karachi {
+  position: absolute;
+  top: 474px;
+  left: 1409px;
+  display: inline-block;
+}
+.basiddiquistudentsuitedu,
+.city,
+.karachi {
+  left: 1579px;
+}
+.city,
+.karachi {
+  top: 520px;
+  left: 1409px;
+}
+.karachi {
+  left: 1579px;
+}
+.cancel-icon {
+  position: absolute;
+  height: 6.48%;
+  width: 3.65%;
+  top: 56.76%;
+  right: 12.03%;
+  bottom: 36.76%;
+  left: 84.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.voter-profile-information-child2 {
+  position: absolute;
+  top: 0;
+  left: 332px;
+  background-color: var(--color-white);
+  width: 1588px;
+  height: 106px;
+  opacity: 0.4;
+}
+.voter-profile-information-child3 {
+  position: absolute;
+  top: 74px;
+  left: 1592px;
+  width: 124px;
+  height: 124px;
+  object-fit: cover;
+}
+.voter-profile-information {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
